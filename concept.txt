@@ -1,0 +1,6 @@
+Main Idea : Agency Dark
+	- Portofolio or Photo >> white
+	- Intro (aircv intro + cv button aries) >> black
+	- Service >> white
+	- Contact US >> black
+	- copyright >> white
